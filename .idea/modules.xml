@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/API-OPEN-INNOV-22-Rest0Gaspi.iml" filepath="$PROJECT_DIR$/.idea/API-OPEN-INNOV-22-Rest0Gaspi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../APP-WEB-OPEN-INNOV-22-Rest0Gaspi/.idea/APP-WEB-OPEN-INNOV-22-Rest0Gaspi.iml" filepath="$PROJECT_DIR$/../APP-WEB-OPEN-INNOV-22-Rest0Gaspi/.idea/APP-WEB-OPEN-INNOV-22-Rest0Gaspi.iml" />
+    </modules>
+  </component>
+</project>
