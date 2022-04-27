@@ -1,7 +1,7 @@
 import userController from "./user.controller.js";
 import user from "../models/user.model.js";
 import sql from "../models/db.js"
-import event from "../models/event.model";
+import event from "../models/menu-restau.model";
 
 const mockRequest = () => {
     const req = {}

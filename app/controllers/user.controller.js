@@ -354,7 +354,7 @@ function saveImageUser(file, userId, result){
     result({ kind: "file_too_big" }, null);
     return;
   }
-  //On crée un dossier particulier pour chaque événement. (sous la forme: event+eventId)
+  //On crée un dossier particulier pour chaque événement. (sous la forme: menu-restau+eventId)
   var userDir = "app/public/usersImgs/userId"+userId;
 
   if (!fs.existsSync(userDir)){
